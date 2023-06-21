@@ -1,4 +1,4 @@
-namespace excersise
+namespace exercise
 {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Convert;

@@ -1,4 +1,4 @@
-namespace excersise
+namespace exercise
 {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Convert;
@@ -6,8 +6,8 @@ namespace excersise
     open Microsoft.Quantum.Measurement;
     
     @EntryPoint()
-    operation RandomByte() : Unit 
+    operation RandomAlternative() : Unit 
     {
-        // TODO: Write some code that uses multiple qubits to output a random byte.
+        // TODO: Write some code that uses a single qubit to output a random byte.
     }
 }
